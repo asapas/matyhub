@@ -208,7 +208,7 @@
 "defaultTab":false,
 "fullscreen":false,
 "showOriginalColor":false,
-"key":"WJJIxdEDsw"
+"key":"hywlpglFCj"
 },
 {
 "layout":"category",
@@ -221,7 +221,7 @@
 "categoryLayout":"card",
 "parallax":false,
 "parallaxImageRatio":1.2,
-"key":"lTnkYzpzRf"
+"key":"WVkkrHpKwE"
 },
 {
 "icon":"search",
@@ -230,7 +230,7 @@
 "pos":300,
 "size":24,
 "defaultTab":false,
-"key":"tYfFiytMqs"
+"key":"MVTpGzACSe"
 },
 {
 "layout":"profile",
@@ -243,7 +243,7 @@
 "showOriginalColor":false,
 "showBackground":true,
 "styleItem":"listTile",
-"key":"LcSPUSAnon"
+"key":"YPcYAGcCvG"
 },
 {
 "layout":"list-blog",
@@ -252,7 +252,7 @@
 "defaultTab":false,
 "fullscreen":false,
 "showOriginalColor":true,
-"key":"ClKrwPqJGV"
+"key":"nKbGkaCkOa"
 }
 ],
 "Drawer":{
@@ -350,6 +350,4 @@
 "blurRadius":10.0,
 "colorOpacity":0.1,
 "y":10.0,
-"x":0.0
-},
-"key":"iomGjqOdtI"}}
+"x":0.0}}}
