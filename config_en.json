@@ -208,7 +208,7 @@
 "defaultTab":false,
 "fullscreen":false,
 "showOriginalColor":false,
-"key":"ldBiqSHnFg"
+"key":"doeLpMFPFq"
 },
 {
 "layout":"category",
@@ -221,7 +221,7 @@
 "categoryLayout":"card",
 "parallax":false,
 "parallaxImageRatio":1.2,
-"key":"IVTHfsTDfX"
+"key":"FYihILuhKC"
 },
 {
 "icon":"search",
@@ -230,7 +230,7 @@
 "pos":300,
 "size":24,
 "defaultTab":false,
-"key":"dnFXVrMjdd"
+"key":"fYeivGEDHs"
 },
 {
 "layout":"profile",
@@ -243,7 +243,7 @@
 "showOriginalColor":false,
 "showBackground":true,
 "styleItem":"listTile",
-"key":"KyhkWAaZDI"
+"key":"UEbGrZPrRq"
 },
 {
 "layout":"list-blog",
@@ -252,7 +252,7 @@
 "defaultTab":false,
 "fullscreen":false,
 "showOriginalColor":true,
-"key":"JFCkCnkdJF"
+"key":"jPXEyeBfqm"
 }
 ],
 "Drawer":{
@@ -331,7 +331,7 @@
 "hideTitle":false,
 "hideStore":false,
 "hidePrice":false,
-"showHeart":false,
+"showHeart":true,
 "showCartButton":false,
 "cartIconRadius":9.0,
 "showQuantity":false,
@@ -346,10 +346,10 @@
 "useSort":false,
 "showCategory":false,
 "boxShadow":{
-"spreadRadius":10.0,
 "blurRadius":10.0,
 "colorOpacity":0.1,
-"y":10.0,
-"x":0.0
+"spreadRadius":10.0,
+"x":0.0,
+"y":10.0
 },
-"key":"PCmgEPufbf"}}
+"key":"lTJLZHdrOu"}}
