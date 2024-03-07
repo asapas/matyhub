@@ -209,7 +209,7 @@
 "showOriginalColor":false,
 "defaultTab":false,
 "icon":"home",
-"key":"OdmCgUmPPd"
+"key":"MHGJICoyVX"
 },
 {
 "layout":"category",
@@ -222,7 +222,7 @@
 "defaultTab":false,
 "icon":"rectangle_grid_1x2",
 "categoryLayout":"card",
-"key":"RnidEXTGrz"
+"key":"PVZcLYwrLr"
 },
 {
 "layout":"search",
@@ -233,7 +233,7 @@
 "showOriginalColor":false,
 "defaultTab":false,
 "icon":"search",
-"key":"umkwsRtLob"
+"key":"PLZPInCccs"
 },
 {
 "layout":"profile",
@@ -252,7 +252,7 @@
 "defaultTab":false,
 "showBackground":true,
 "icon":"person",
-"key":"uPSjCBiCOC"
+"key":"uPNBtGQNmk"
 },
 {
 "layout":"list-blog",
@@ -261,7 +261,7 @@
 "showOriginalColor":true,
 "defaultTab":false,
 "icon":"https://i.imgur.com/8oAKBJK.png",
-"key":"lqAwfNfnbh"
+"key":"INzKarPopM"
 }
 ],
 "Drawer":{
@@ -361,4 +361,4 @@
 "name":"Explore more",
 "cartIconRadius":9,
 "shuffle":false,
-"key":"POTzMBsaZQ"}}
+"key":"PWiKfuFjho"}}
