@@ -240,7 +240,7 @@
 "key":"ILEgQDiowK"
 },
 {
-"key":"CNyCRYNamF",
+"key":"zWBrmgZHPB",
 "layout":"category",
 "icon":"rectangle_grid_1x2",
 "fontFamily":"CupertinoIcons",
@@ -248,7 +248,7 @@
 "defaultTab":false,
 "fullscreen":false,
 "showOriginalColor":false,
-"categoryLayout":"column",
+"categoryLayout":"card",
 "parallax":false,
 "parallaxImageRatio":1.2,
 "showSearch":true
